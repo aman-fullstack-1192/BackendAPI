@@ -35,6 +35,7 @@
 
     <modules>
         <module>proman-api</module>
+        <module>proman-db</module>
     </modules>
 
 </project>
